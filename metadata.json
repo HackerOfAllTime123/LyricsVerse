@@ -1,0 +1,7 @@
+{
+  "name": "LyricPoet - Music Lyrics Translator",
+  "description": "Expert literary translator and linguist specializing in music lyrics. Preserves poetic idioms, rhythm, emotion, and musical cadence across languages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
